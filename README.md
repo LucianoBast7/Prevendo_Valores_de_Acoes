@@ -21,7 +21,7 @@ Este projeto é uma aplicação web que permite visualizar dados históricos e p
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/LucianoBast7/Prevendo_Valores_Acoes.git
     ```
 
 2. Instale as dependências:
