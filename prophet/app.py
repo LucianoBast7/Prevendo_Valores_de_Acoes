@@ -35,7 +35,6 @@ def prever_dados(df, periodo):
     previsoes = modelo.predict(datas_futuras)
     return modelo, previsoes
 
-st.image('logo.jpg')
 st.markdown("""
 # Analise Preditiva
 ### Prevendo valor de ações na Bolsa de Valores
